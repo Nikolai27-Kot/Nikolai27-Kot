@@ -1,13 +1,12 @@
-### Hi there 👋, I'm Vlad
+### Hi there 👋, I'm Nikolai
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
 
-## I'm a FrontEnd Developer, and Teacher
+## I'm a BackEnd Developer, and Teacher in MetaCoding school
 - 💪 I like to write code
-- 🎉 I love to paint and play the guitar
+- 🎉 I love to coming up with and implementing new ideas
 - 🥅 I am constantly learning new things
-- ⚡ I love writing an article for https://webtricks-master.ru/
-- 🤹🏽 I like to shoot videos for youtube 
+- ⚡ I am a mentor and speaker at a programming school
+
 
 ### Connect with me:
 
